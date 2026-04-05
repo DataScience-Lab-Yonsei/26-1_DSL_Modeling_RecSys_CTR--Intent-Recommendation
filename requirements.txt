@@ -1,0 +1,7 @@
+torch
+torchvision
+sentence-transformers==2.7.0
+pandas
+numpy
+scikit-learn
+pyarrow
