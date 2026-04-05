@@ -71,7 +71,7 @@ Key observations:
 - Intent embeddings help recover performance loss in limited data settings
 
 ---
-
+```
 ## 4. Repository Structure
 
 ctr_project/
