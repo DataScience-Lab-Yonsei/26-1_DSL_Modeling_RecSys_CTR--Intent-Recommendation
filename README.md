@@ -57,7 +57,7 @@ The overall pipeline consists of the following steps:
 
 
 
-### 🔹 Model A (Baseline: DeepFM)
+### Model A (Baseline: DeepFM)
 
 ```text
 [Sparse & Dense Features]
@@ -79,12 +79,12 @@ The overall pipeline consists of the following steps:
 ```
 - AUC: 0.6424  
 - LogLoss: 0.1943  
-- ECE: 0.0122  
-- 
+- ECE: 0.0122
+-  
 Model B (Enhanced)
 
-```md
-### 🔹 Model B (Enhanced: Intent-aware DeepFM)
+```
+### Model B (Enhanced: Intent-aware DeepFM)
 
 ```text
 [User Behavior Data]
