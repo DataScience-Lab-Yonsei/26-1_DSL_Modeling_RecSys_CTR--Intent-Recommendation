@@ -88,7 +88,7 @@ data/
 
 ### Model A (Baseline: DeepFM)
 
-```text
+```
 [Sparse & Dense Features]
         │
         ▼
@@ -115,7 +115,7 @@ data/
 ```
 ### Model B (Enhanced: Intent-aware DeepFM)
 
-```text
+```
 [User Behavior Data]
         │
         ▼
