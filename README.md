@@ -79,7 +79,7 @@ data/
 
 ## 3. Output (Evaluation)
 
-ㅊ Model C (Upper Bound)
+Model C (Upper Bound)
 
 - BST (Behavior Sequence Transformer)
 - Uses sequential user behavior data
