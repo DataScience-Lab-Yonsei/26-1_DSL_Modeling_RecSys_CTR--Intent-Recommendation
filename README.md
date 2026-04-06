@@ -79,7 +79,12 @@ data/
 
 ## 3. Output (Evaluation)
 
+###  Model C (Upper Bound)
 
+- BST (Behavior Sequence Transformer)
+- Uses sequential user behavior data
+- Implemented using FuxiCTR
+- Provides upper-bound performance benchmark
 
 ### Model A (Baseline: DeepFM)
 
