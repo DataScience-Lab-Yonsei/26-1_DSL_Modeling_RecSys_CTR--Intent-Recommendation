@@ -79,7 +79,7 @@ data/
 
 ## 3. Output (Evaluation)
 
-###  Model C (Upper Bound)
+ㅊ Model C (Upper Bound)
 
 - BST (Behavior Sequence Transformer)
 - Uses sequential user behavior data
@@ -110,7 +110,7 @@ data/
 - LogLoss: 0.1943  
 - ECE: 0.0122
   
-Model B (Enhanced)
+### Model B (Enhanced)
 
 ```
 ### Model B (Enhanced: Intent-aware DeepFM)
